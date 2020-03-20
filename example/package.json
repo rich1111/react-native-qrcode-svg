@@ -13,7 +13,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.2",
-    "react-native-qrcode-svg": "file:../",
+    "react-native-qrcode-svg2": "file:../",
     "react-native-svg": "^9.12.0"
   },
   "devDependencies": {

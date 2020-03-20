@@ -8,7 +8,7 @@ import Svg, {
   ClipPath,
   LinearGradient,
   Stop
-} from 'react-native-svg'
+} from 'react-native-svg2'
 import genMatrix from './genMatrix'
 import transformMatrixIntoPath from './transformMatrixIntoPath'
 
